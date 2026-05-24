@@ -20,7 +20,7 @@ the standard-library `datetime` types.
 ## Install
 
 ```bash
-pip install iso8601
+python -m pip install -e .
 ```
 
 ## Usage
